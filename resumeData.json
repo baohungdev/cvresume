@@ -1,0 +1,108 @@
+{
+  "main": {
+    "name": "Duong Bao Hung",
+    "occupation": "student",
+    "description": "I am a self-motivated person with strong work ethic. To achieve goals efficiently and effectively, I am always enthusiastic about developing new skills and finding innovative solutions. I believe that “to build trust, competence is the key”.",
+    "image": "profilepic.jpg",
+    "bio": "A frontend engineer explore web development for more than 1 year, and was in love with coding since i was at the high school",
+    "contactmessage": "Let me know your request by send me a message via mail, facebook, etc...",
+    "email": "baohungdev@icloud.com",
+    "phone": "(+84) 347461805",
+    "address": {
+      "street": "271 Binh Loi, Binh Thanh District",
+      "city": "Ho Chi Minh City"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/dbhungUIT",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/BaoHungDuong1",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/hunhjax",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/baohungdev",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Nguyen Binh Khiem High School for the gifted",
+        "degree": "At IT class",
+        "graduated": "June 2018"
+      },
+      {
+        "school": "University of Information Technology",
+        "degree": "At second year",
+        "graduated": "June 2020"
+      }
+    ],
+    "work": [
+      {
+        "company": "Looking for an internship program"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "English",
+        "level": "90%"
+      },
+      {
+        "name": "Deploy and hosting",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "COVID-19 tracker",
+        "category": "A realtime website that tracker the cases of COVID-19 build of React",
+        "image": "covid.png",
+        "url": "https://baohungdev.github.io/coronavirus"
+      },
+      {
+        "title": "CRWN Shop",
+        "category": "A Shop build with ReactJS, Redux, Firebase, StripePayment",
+        "image": "shopcrwn.png",
+        "url": "https://shopcrwn-live.herokuapp.com"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume.png  ",
+        "url": "#"
+      }
+    ]
+  }
+}
